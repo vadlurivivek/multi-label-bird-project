@@ -1,0 +1,14 @@
+2 russetbacked_sparrow_GHNP (TAKE ALL THREE SAMPLES) OK
+3 palerumped_warbler_GHNP (intermediate sounds) (CONFUSED) OK
+4 himalayan_monal_GHNP (3 different recordings) (TAKE ALL THREE) OK
+5 great_barbet_GHNP (first 3 sounds? ) (DELETE FIRST THREE) OK
+6 chestnutcrowned_laughingthrush_GHNP (intermediate) (CONFUSED)
+10 longtailed_minivet_GHNP XXXXXXXX
+11 blackandyellow_grosbeak_GHNP (2 types) (TAKE ALL TYPES)
+15 orangeflanked_bushrobin_GHNP (intermediate sounds) (NOISY BUT OK)
+16 humes_warbler_GHNP (contrasting sounds but belong to same bird) (ONLY KEEP IMP) OK
+20 whitecapped_waterredstart_GHNP (clearly 2 different birds) XXXXXXXXXX
+29 spotted_nutcracker_GHNP (too close spacing, may redo) OK
+35 large_hawkcuckoo_GHNP (part 13 may be unnecessary) OK
+44 whitecollared_blackbird_GHNP (possible incorrect segmentation) XXXXXXX
+48 eurasian_golden_oriole_GHNP (confusing calls) XXXXXXX
