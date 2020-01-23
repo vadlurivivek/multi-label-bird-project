@@ -2,8 +2,8 @@
 
 #########################################################################
 # 																		#
-# Author: Deep Chakraborty												#
-# Date Created: 18/05/2016												#
+# Author: Vadluri Vivek												#
+# Date Created: 18/05/2017												#
 # Purpose: 1) To pickle the artificial data for use with tensorflow		#
 # 		   2) To train a neural network with the loaded data 			#
 # 		    		   													#
